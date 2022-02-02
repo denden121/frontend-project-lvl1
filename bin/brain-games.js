@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import {print} from "../src/cli.js";
+import { print } from '../src/cli.js';
 
-print()
+print();
